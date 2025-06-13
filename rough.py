@@ -1,7 +1,7 @@
-lst = [1,2,3]
+'''lst = [1,2,3]
 my_str = "mlops playlist"
 my_int = 155
-
+'''
 # print(type(my_int))
 # lst.capitalize()
 # my_str = my_str.capitalize()
@@ -12,10 +12,10 @@ my_int = 155
 # b = 'y'
 # print(a+b)
 
-'''from oops_proj import chatbook
+from oops_project import chatbook
 user1 = chatbook()
 print(user1.id)
-'''
+
 
 
 
